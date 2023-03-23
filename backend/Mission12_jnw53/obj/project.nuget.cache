@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wV13dQmJH63hBw1vct1RIhiEdNpjxy0MY8sIzhRn68q7jfXaG19Uao/l3Iqhk3DqNErjpv/6JbDVOiJBOsGlEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaeda\\OneDrive\\Desktop\\Mission12_jnw53\\backend\\Mission12_jnw53\\Mission12_jnw53.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaeda\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
